@@ -33,9 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Goemay&show_icons=true&layout=compact&theme=dark" alt="Goemay Top Langs" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Goemay&show_icons=true&theme=dark" alt="Goemay Stats" />
-</p>
+
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Goemay&theme=dark" alt="Goemay Streak" />
