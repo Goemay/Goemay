@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hey, I’m Goemay
 
-<!--
-**Goemay/Goemay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer from Indonesia.  
+I build things that **work fast, look clean, and solve real problems**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Stack
+- Frontend: HTML, CSS, JS, Tailwind  
+- Backend: PHP, Python  
+- DB: MySQL  
+- Tools: Git, VS Code  
+
+---
+
+### 🚧 Projects
+- [**Porto-Jim**](https://github.com/Goemay/porto-) — personal portfolio site  
+- [**Warung-RR**](https://github.com/Goemay/warung-rr) — POS app (Python)  
+- [**Project-Cnaindo**](https://github.com/Goemay/Project-cnaindo) — attendance system  
+- More on [my repos →](https://github.com/Goemay?tab=repositories)
+
+---
+
+### 📈 Now
+- Exploring **IoT** + **AI**  
+- Always improving full-stack workflow  
+
+---
+
+### 🔗 Links
+🌐 [jimraihan.my.id](https://jimraihan.my.id)  
+📸 [Instagram @jimraihann](https://instagram.com/jimraihann)  
+💼 [LinkedIn](https://linkedin.com/in/jim-raihan)
+
+---
+
+`Code. Fix. Learn. Repeat.`
