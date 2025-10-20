@@ -1,17 +1,8 @@
-<h1 align="center">Hi 👋, I'm Goemay</h1>
-<h3 align="center">Full-Stack Developer | IoT & AI Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Goemay&label=Profile%20views&color=0e75b6&style=flat" alt="Goemay" />
-</p>
-
----
-
-- 🧠 Focused on **IoT**, **AI**, and clean **web app development**  
-- ⚙️ Love turning ideas into working code  
-- 🌐 Portfolio: [jimraihan.my.id](https://jimraihan.my.id)  
-- 📫 Reach me: **jimraihan.dev@gmail.com**  
-- 💡 Motto: `Code. Fix. Learn. Repeat.`  
+🧠 IoT • AI • Web Apps  
+⚙️ Turning ideas into code  
+🌐 [jimraihan.my.id](https://jimraihan.my.id)  
+📫 jimraihan.dev@gmail.com  
+💡 Code. Fix. Learn. Repeat.
 
 ---
 
