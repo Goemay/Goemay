@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Goemay</h1>
+<h3 align="center">Full-Stack Developer | IoT & AI Enthusiast</h3>
+
+<p align="center">
+  📫 Get in touch: <a href="mailto:raihangumay02@gmail.com">raihangumay02@gmail.com</a>
+</p>
+
 ---
 
 <h3 align="left">🧰 Languages & Tools:</h3>
@@ -17,16 +24,12 @@
 </p>
 
 ---
-get in touch: raihangumay02@gmai.ocm
----
 
 ### 📈 GitHub Stats
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Goemay&show_icons=true&layout=compact&theme=dark" alt="Goemay Top Langs" />
 </p>
 
-
-
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Goemay&theme=dark" alt="Goemay Streak" />
 </p>
