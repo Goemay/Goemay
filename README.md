@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | IoT & AI Enthusiast</h3>
 
 <p align="center">
-  📫 Get in touch: <a href="mailto:raihangumay02@gmail.com">raihangumay02@gmail.com</a>
+  📫 Reach me: <a href="mailto:raihangumay02@gmail.com">raihangumay02@gmail.com</a>
 </p>
 
 ---
